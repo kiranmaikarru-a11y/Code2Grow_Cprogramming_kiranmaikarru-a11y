@@ -1,0 +1,24 @@
+=========== Café Order Management System ===========
+Enter total number of customers (max 10): 2
+
+--- Enter Customer Name: yasir
+Enter number of items: 2
+Enter item number and quantity:
+1 2
+4 1
+Total Bill for Customer 1: 220
+
+--- Enter Customer Name: tania
+Enter number of items: 3
+Enter item number and quantity:
+2 1
+3 2
+5 1
+Total Bill for Customer 2: 250
+
+=========== Café Summary ===========
+Total Revenue: 470
+Total Items Sold: 7
+Most Ordered Item: Coffee
+Least Ordered Item: Tea
+====================================
