@@ -1,1 +1,27 @@
+========= Employee Salary Analysis System =========
+Enter Student Name: Riya Sharma
+Enter Registration Number: AP123456789
+Enter Section: C
 
+Enter number of employees: 5
+Enter salaries:
+1: 45000
+2: 52000
+3: 39000
+4: 60000
+5: 41000
+
+========= Menu =========
+1. Display All Salaries
+2. Display Total and Average Salary
+3. Display Highest and Lowest Salary
+4. Count Above/Below Average
+5. Display Sorted Salaries
+6. Exit
+========================
+Enter your choice: 2
+Total Salary = 237000
+Average Salary = 47400
+
+Submitted by: Riya Sharma | Reg No: AP12345678 | Section: C
+Challenge Day 17 – Code2Grow Program
