@@ -1,0 +1,154 @@
+Enter names of 5 students:
+Student 1 name: kiran
+Student 2 name: chaitu
+Student 3 name: keerthana
+Student 4 name: jyo
+Student 5 name: shanthi
+
+Enter Attendance Matrix (1 = Present, 0 = Absent)
+Attendance for kiran:
+  Class 1: 1
+  Class 2: 1
+  Class 3: 1
+  Class 4: 1
+  Class 5: 0
+Attendance for chaitu:
+  Class 1: 1
+  Class 2: 0
+  Class 3: 1
+  Class 4: 1
+  Class 5: 0
+Attendance for keerthana:
+  Class 1: 0
+  Class 2: 1
+  Class 3: 0
+  Class 4: 1
+  Class 5: 1
+Attendance for jyo:
+  Class 1: 1
+  Class 2: 0
+  Class 3: 1
+  Class 4: 1
+  Class 5: 0
+Attendance for shanthi:
+  Class 1: 1
+  Class 2: 1
+  Class 3: 1
+  Class 4: 0
+  Class 5: 0
+
+Enter Marks Matrix (Marks out of 100)
+Marks for kiran:
+  Subject 1: 92
+  Subject 2: 90
+  Subject 3: 87
+  Subject 4: 82
+  Subject 5: 85
+Marks for chaitu:
+  Subject 1: 97
+  Subject 2: 92
+  Subject 3: 80
+  Subject 4: 79
+  Subject 5: 89
+Marks for keerthana:
+  Subject 1: 80 
+  Subject 2: 72
+  Subject 3: 89
+  Subject 4: 98
+  Subject 5: 78
+Marks for jyo:
+  Subject 1: 72
+  Subject 2: 85
+  Subject 3: 92
+  Subject 4: 97
+  Subject 5: 75
+Marks for shanthi:
+  Subject 1: 90
+  Subject 2: 92
+  Subject 3: 89
+  Subject 4: 87
+  Subject 5: 79
+
+========== MENU ==========
+1. Display Attendance Matrix
+2. Display Marks Matrix
+3. Attendance Report
+4. Performance Report
+5. Grade Report
+6. Exit
+==========================
+Enter your choice: 4
+
+--- Performance Report ---
+kiran -> Total Marks: 436, Average: 87.20
+chaitu -> Total Marks: 437, Average: 87.40
+keerthana -> Total Marks: 417, Average: 83.40
+jyo -> Total Marks: 421, Average: 84.20
+shanthi -> Total Marks: 437, Average: 87.40
+Class Topper        : chaitu
+Lowest Performer    : keerthana
+
+========== MENU ==========
+1. Display Attendance Matrix
+2. Display Marks Matrix
+3. Attendance Report
+4. Performance Report
+5. Grade Report
+6. Exit
+==========================
+Enter your choice: 5
+
+--- Grade Report ---
+kiran -> Average: 87.20, Grade: B
+chaitu -> Average: 87.40, Grade: B
+keerthana -> Average: 83.40, Grade: B
+jyo -> Average: 84.20, Grade: B
+shanthi -> Average: 87.40, Grade: B
+
+========== MENU ==========
+1. Display Attendance Matrix
+2. Display Marks Matrix
+3. Attendance Report
+4. Performance Report
+5. Grade Report
+6. Exit
+==========================
+Enter your choice: 1
+
+--- Attendance Matrix ---
+kiran: 1 1 1 1 0 
+chaitu: 1 0 1 1 0 
+keerthana: 0 1 0 1 1 
+jyo: 1 0 1 1 0 
+shanthi: 1 1 1 0 0 
+
+========== MENU ==========
+1. Display Attendance Matrix
+2. Display Marks Matrix
+3. Attendance Report
+4. Performance Report
+5. Grade Report
+6. Exit
+==========================
+Enter your choice: 3
+
+--- Attendance Report ---
+kiran -> Present: 4, Absent: 1
+chaitu -> Present: 3, Absent: 2
+keerthana -> Present: 3, Absent: 2
+jyo -> Present: 3, Absent: 2
+shanthi -> Present: 3, Absent: 2
+Highest Attendance : kiran
+Lowest Attendance  : chaitu
+
+========== MENU ==========
+1. Display Attendance Matrix
+2. Display Marks Matrix
+3. Attendance Report
+4. Performance Report
+5. Grade Report
+6. Exit
+==========================
+Enter your choice: 6
+
+Exiting program...
