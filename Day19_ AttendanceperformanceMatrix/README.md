@@ -1,7 +1,1 @@
-kiranmai.k   ,AP25110090185,DAY19-attendanceperformancematrix.    
-Input Phase: Gathers student names, attendance (1s/0s), and marks (0-100) using nested for loops.
-Processing Phase: Calculates total attendance, total marks, averages, and identifies top/bottom performers using if statements and loops.
-Menu System: A do-while loop presents a menu with various options, handled by a switch statement.
-Users can choose to display raw data matrices or detailed reports.
-Grades (A-F) are assigned in the reports using if-else if logic based on average marks.
-The code runs interactively in the console and strictly avoids functions, structures, and pointers.
+
