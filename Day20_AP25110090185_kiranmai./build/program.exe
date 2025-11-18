@@ -1,1 +1,113 @@
+==== SMART WAREHOUSE MENU =====
+1. Add Product
+2. Search Product (By ID)
+3. Update Quantity
+4. Generate Rack Report (2D Array)
+5. Calculate Stock Values
+6. Display All Products
+7. Exit
+Enter choice: 1
+Enter Product ID: 101
+Enter Quantity: 10
+Enter Price: 25
+Product Added Successfully!
+
+===== SMART WAREHOUSE MENU =====
+1. Add Product
+2. Search Product (By ID)
+3. Update Quantity
+4. Generate Rack Report (2D Array)
+5. Calculate Stock Values
+6. Display All Products
+7. Exit
+Enter choice: 1
+Enter Product ID: 102
+Enter Quantity: 5
+Enter Price: 40
+Product Added Successfully!
+
+===== SMART WAREHOUSE MENU =====
+1. Add Product
+2. Search Product (By ID)
+3. Update Quantity
+4. Generate Rack Report (2D Array)
+5. Calculate Stock Values
+6. Display All Products
+7. Exit
+Enter choice: 2
+Enter Product ID to Search: 101
+Product Found!
+ID: 101
+Quantity: 10
+Price: 25
+
+===== SMART WAREHOUSE MENU =====
+1. Add Product
+2. Search Product (By ID)
+3. Update Quantity
+4. Generate Rack Report (2D Array)
+5. Calculate Stock Values
+6. Display All Products
+7. Exit
+Enter choice: 3
+Enter Product ID: 101
+Enter Quantity Change (+ or -): +10
+Quantity Updated! New Quantity = 20
+
+===== SMART WAREHOUSE MENU =====
+1. Add Product
+2. Search Product (By ID)
+3. Update Quantity
+4. Generate Rack Report (2D Array)
+5. Calculate Stock Values
+6. Display All Products
+7. Exit
+Enter choice: 4
+
+--- Rack Analysis ---
+Maximum Stock: 12 at (2, 2)
+Minimum Stock: 2 at (0, 0)
+Total Items Across Racks: 54
+
+===== SMART WAREHOUSE MENU =====
+1. Add Product
+2. Search Product (By ID)
+3. Update Quantity
+4. Generate Rack Report (2D Array)
+5. Calculate Stock Values
+6. Display All Products
+7. Exit
+Enter choice: 5
+
+ID   Qty   Price   StockValue
+101   20     25      500
+102   5     40      200
+
+Highest Stock Value Product ID: 101 (Value=500)
+Lowest Stock Value Product ID: 102 (Value=200)
+Total Warehouse Value: 700
+
+===== SMART WAREHOUSE MENU =====
+1. Add Product
+2. Search Product (By ID)
+3. Update Quantity
+4. Generate Rack Report (2D Array)
+5. Calculate Stock Values
+6. Display All Products
+7. Exit
+Enter choice: 6
+
+ID   Quantity   Price   StockValue
+101      20        25         500
+102      5        40         200
+
+===== SMART WAREHOUSE MENU =====
+1. Add Product
+2. Search Product (By ID)
+3. Update Quantity
+4. Generate Rack Report (2D Array)
+5. Calculate Stock Values
+6. Display All Products
+7. Exit
+Enter choice: 7
 
